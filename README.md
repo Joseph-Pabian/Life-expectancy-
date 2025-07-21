@@ -3,7 +3,7 @@
 This project investigates whether there is a statistically significant difference in life expectancy between developed and developing countries using SQL and Python.
 
 ## Dataset
-
+- **Source**: [World Health Organization via Kaggle](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
 - **Name**: Life Expectancy Data
 - **Time Range**: 2000–2015
 - **Format**: CSV
