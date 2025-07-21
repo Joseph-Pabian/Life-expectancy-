@@ -26,13 +26,13 @@ This project investigates whether there is a statistically significant differenc
 6. Conducted Mann–Whitney U test due to non-normality
 7. Calculated rank-biserial correlation as effect size
 
-## 📊 Results
+## Results
 
 - **Normality**: Both groups failed normality tests
 - **Levene’s Test**: Suggests unequal variances
 - **Mann–Whitney U Test**: Statistically significant difference (p < .001)
 - **Effect Size**: Rank-biserial correlation ≈ 0.83 (large effect)
 
-## ✅ Conclusion
+## Conclusion
 
 Life expectancy is significantly higher in developed countries, with a strong effect size. This supports the hypothesis that development status is a key factor in public health outcomes.
