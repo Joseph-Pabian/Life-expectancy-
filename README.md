@@ -1,6 +1,6 @@
 # Life Expectancy Analysis
 
-This project investigates whether there is a statistically significant difference in life expectancy between developed and developing countries using SQL and Python.
+This project investigates whether there is a statistically significant difference in life expectancy between developed and developing countries using SQL and Python. The dataset provides country-level averages across a range of health-related variables collected between 2000 and 2015.
 
 ## Dataset
 - **Source**: [World Health Organization via Kaggle](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
