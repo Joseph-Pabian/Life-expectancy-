@@ -36,4 +36,4 @@ This project investigates whether there is a statistically significant differenc
 
 ## Conclusion
 
-Life expectancy is significantly higher in developed countries, with a strong effect size. This supports the hypothesis that development status is a key factor in public health outcomes.
+Life expectancy is significantly higher in developed countries, with a strong effect size. This supports the hypothesis that development status is a key factor in public health outcomes. If you're wondering why there's not more overlap in life expectancy between developed and developing countries, it's important to note that this analysis focuses on group averages. While there may be individual variation, the aggregated data highlights a clear systemic difference in outcomes.
