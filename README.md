@@ -25,7 +25,6 @@ This project investigates whether there is a statistically significant differenc
 5. Tested equality of variances (Levene's test)
 6. Conducted Mann–Whitney U test due to non-normality
 7. Calculated rank-biserial correlation as effect size
-<p align="center">
   <img src="assumptions.png" alt="Assumptions" width="50%">
 </p>
 
@@ -35,7 +34,6 @@ This project investigates whether there is a statistically significant differenc
 - **Levene’s Test**: Suggests unequal variances
 - **Mann–Whitney U Test**: Statistically significant difference (p < .001)
 - **Effect Size**: Rank-biserial correlation ≈ 0.83 (large effect)
-<p align="center">
   <img src="nonparametric_tests.png" alt="Nonparametric Tests" width="50%">
 </p>
 
