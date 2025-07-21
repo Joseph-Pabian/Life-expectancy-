@@ -35,7 +35,7 @@ This project investigates whether there is a statistically significant differenc
 - **Mann–Whitney U Test**: Statistically significant difference (p < .001)
 - **Effect Size**: Rank-biserial correlation ≈ 0.83 (large effect)
 
-  <img src="nonparametric_tests.png" alt="Nonparametric Tests" width="50%">
+<img src="nonparametric_tests.png" alt="Nonparametric Tests" width="50%">
 </p>
 
 ![Life Expectancy Boxplot](lifeexpectancy_plot.png)
