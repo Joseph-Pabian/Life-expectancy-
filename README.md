@@ -26,7 +26,9 @@ This project investigates whether there is a statistically significant differenc
 6. Conducted Mann–Whitney U test due to non-normality
 7. Calculated rank-biserial correlation as effect size
 ![Assumptions](assumptions.png)
-
+<p align="center">
+  <img src="assumptions.png" alt="Assumptions" width="50%">
+</p>
 
 ## Results
 
