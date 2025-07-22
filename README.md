@@ -30,8 +30,6 @@ This project investigates whether there is a statistically significant differenc
 
 ## Results
 
-- **Normality**: Both groups failed normality tests
-- **Levene’s Test**: Suggests unequal variances
 - **Mann–Whitney U Test**: Statistically significant difference (p < .001)
 - **Effect Size**: Rank-biserial correlation ≈ 0.83 (large effect)
 
